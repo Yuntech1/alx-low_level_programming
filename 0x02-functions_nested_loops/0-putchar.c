@@ -15,5 +15,6 @@ int main(void)
 	 _purchar('a');
 	 _purchar('r');
 	 _purchar('\n');
-return (0);
+
+ return (0);
 }
