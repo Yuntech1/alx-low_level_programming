@@ -1,10 +1,10 @@
 #include "main.h"
 /**
  * Main - entry point
- * Description 'print a new line'
- * Return: alway 0
- */
-int main()
+ * Description - print a new line
+ * Return: alway 0 (success)
+  */
+int main(void)
 {
 	int _purchar('_');
 	int _purchar('p');
@@ -15,5 +15,5 @@ int main()
 	int _purchar('a');
 	int _purchar('r');
 	int _purchar('\n');
-return :(0)
+return (0);
 }
